@@ -135,7 +135,7 @@
 #button {
     width: 300px;
     height: 50px;
-    background-image: linear-gradient(to right,#214ae0,#21fc45,#214ae0);
+    background-image: linear-gradient(to right,#166366, #f9f932,#1c6573);
     border-radius: 10px ;
     border: rgb(12, 182, 229) ;
     text-align: center  ;
